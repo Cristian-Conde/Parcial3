@@ -693,6 +693,57 @@ Aplicar lógica de juegos.
 
 Hacer que un programa sea interactivo, visual y funcional.
 
+✅ Requisitos para ejecutar el proyecto
+1. 🐍 Tener Python instalado
+Debes tener Python 3.x instalado en tu computadora (preferiblemente Python 3.8 o superior).
+
+Puedes descargarlo desde python.org.
+
+🔧 Verifica que está instalado abriendo la terminal (CMD o PowerShell) y escribiendo:
+
+python --version
+2. 🧰 No necesitas instalar Tkinter
+Tkinter ya viene incluido con Python, por lo tanto no necesitas instalarlo manualmente si tu versión de Python es oficial.
+
+Pero si al ejecutar el código te sale error con tkinter, podrías instalarlo (en algunos sistemas Linux) con:
+
+
+sudo apt-get install python3-tk
+3. 📦 Tener instalada la biblioteca random y tkinter
+Estas librerías son módulos estándar de Python:
+
+import tkinter as tk
+
+from tkinter import messagebox
+
+import random
+
+No necesitas instalar nada adicional, ya que estas librerías vienen por defecto con Python.
+
+4. 🖥️ Entorno de desarrollo
+Puedes ejecutar el archivo juego.py en cualquier editor de Python, por ejemplo:
+
+Visual Studio Code ✅
+
+Thonny ✅
+
+IDLE (el editor que trae Python por defecto) ✅
+
+PyCharm (versión community) ✅
+
+Solo asegúrate de que:
+
+Estás en la misma carpeta del archivo juego.py.
+
+Lo ejecutas con:
+
+python juego.py
+
+5. 📁 No necesita imágenes ni archivos externos
+Este proyecto no usa imágenes ni sonidos externos. Usa solo emojis, texto y colores, así que todo está contenido en un solo archivo .py.
+
+
+
 Este proyecto no solo muestra varios juegos clásicos en un mismo programa, sino que también demuestra cómo se puede combinar lógica de programación con diseño visual para crear una experiencia completa para el usuario."
 
 
