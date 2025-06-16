@@ -585,7 +585,7 @@ if __name__ == "__main__":
 
 
 
-🎮 Explicación del Proyecto: Centro de Juegos Interactivo
+# 🎮 Explicación del Proyecto: Centro de Juegos Interactivo
 🖥️ 1. ¿Qué es el proyecto?
 Este proyecto es una aplicación en Python que funciona como un centro de juegos, donde el usuario puede elegir entre 5 juegos diferentes. Está hecho con la biblioteca Tkinter, que me permite crear interfaces gráficas como ventanas, botones y textos para que el usuario pueda interactuar fácilmente con el programa.
 
